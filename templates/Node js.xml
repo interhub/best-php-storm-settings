@@ -1,0 +1,7 @@
+<templateSet group="Node js">
+  <template name="express" value="import express from 'express'&#10;&#10;const app = express()&#10;&#10;app.use(express.json())&#10;app.use(express.urlencoded({extended: true}))&#10;&#10;app.get('/', (req, res) =&gt; {&#10;    console.log('TEST')&#10;    res.send('TEST')&#10;})&#10;&#10;const PORT = 3001&#10;&#10;app.listen(PORT, () =&gt; {&#10;    console.log('SERVER START ON PORT', PORT)&#10;})" description="express app server" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

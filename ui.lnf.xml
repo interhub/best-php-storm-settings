@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>

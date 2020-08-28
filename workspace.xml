@@ -1,0 +1,12 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Angular2Html" />
+        <option value="PHP" />
+        <option value="Vue" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>
