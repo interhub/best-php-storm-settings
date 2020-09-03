@@ -6,4 +6,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="useSelector" value="useSelector&lt;StateType, StateType&gt;((state =&gt; state))" description="use selector" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
