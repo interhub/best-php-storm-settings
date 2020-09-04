@@ -11,4 +11,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="StyleSheet" value="const styles = StyleSheet.create({&#10;    $container$&#10;})" description="StyleSheat creatw" toReformat="false" toShortenFQNames="true">
+    <variable name="container" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
